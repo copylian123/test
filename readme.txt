@@ -5,4 +5,3 @@ Git tracks changes of files.
 Git branch is a good method.
 Git branch is diff.
 Creating a new branch is quick AND simple.
-1112232323232
